@@ -1,0 +1,247 @@
+[33mcommit 9d39104a6542e4470d2e70dc9d39ee5b40eda148[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 19:54:29 2021 -0500
+
+    all fishes
+
+[33mcommit 5e3102bf55e40839f1a34cd7f12966ccd23e905d[m
+Merge: 3b56dbb ce6ac86
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 19:36:55 2021 -0500
+
+    Merge branch 'main' of github.com:JeyzerMC/cgj-17 into main
+
+[33mcommit 3b56dbb9481766b8158da41a40ff3d5a232c2dbc[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 19:36:49 2021 -0500
+
+    Add some character and small tweaks
+
+[33mcommit ce6ac86a7c816da4e3ae2738683289394cf397aa[m
+Merge: a420c8f 18c105e
+Author: PamphileKari <PamphileKari@gmail.com>
+Date:   Sat Jan 16 18:41:21 2021 -0500
+
+    Merge branch 'main' of https://github.com/JeyzerMC/cgj-17 into main
+    
+    # Conflicts:
+    #       DeepTank/Content/BP/FishController.uasset
+
+[33mcommit a420c8f946e2f669665bd6cc8ac53f404600da9d[m
+Author: PamphileKari <PamphileKari@gmail.com>
+Date:   Sat Jan 16 18:38:31 2021 -0500
+
+    AI Fish Movement
+
+[33mcommit 18c105e09a55758d90aed974b1f6fb61b350da62[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 18:19:54 2021 -0500
+
+    smooth ascent
+
+[33mcommit e40f0f81666e8f4acb0259cb238f79ee6c3c68fc[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 18:19:24 2021 -0500
+
+    smooth angle during ascent and descent
+
+[33mcommit cb4039999a4ffd59fb9db1272c89bbd7ba833a60[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 17:13:06 2021 -0500
+
+    Smooth transition on possession
+
+[33mcommit a2abd22521435db432e5bfd8d31cacb647dba36c[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 17:04:29 2021 -0500
+
+    reenable flight on possess
+
+[33mcommit e77d7460d83b19ad2a6a6eb0d3737f6cfd91a159[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 16:52:28 2021 -0500
+
+    Possession
+
+[33mcommit a5859f391d4afb1d76b54ae7397119e15b6545e6[m
+Merge: 064ae0f af431ce
+Author: PamphileKari <PamphileKari@gmail.com>
+Date:   Sat Jan 16 16:21:17 2021 -0500
+
+    Merge branch 'main' of https://github.com/JeyzerMC/cgj-17 into main
+
+[33mcommit af431ce2024e92020d75f3b529301d58f30ba38a[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 16:18:05 2021 -0500
+
+    minor map changes
+
+[33mcommit 24991e5505ca274d6c217037e91d774a8e964811[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 16:14:03 2021 -0500
+
+    FishController
+
+[33mcommit 352e2f50704e07445d7dbb42f130c0cbcaa43248[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 15:54:31 2021 -0500
+
+    Re-add what disappeared with git magic
+
+[33mcommit c5559e2bb87a25bda6c066c30be1b4ce79ee4eee[m
+Merge: 7b15da9 3705989
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 15:49:20 2021 -0500
+
+    Merge
+
+[33mcommit 7b15da99255e8a6cc81c156da6b0657899ed828a[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 15:48:15 2021 -0500
+
+    merge
+
+[33mcommit 263e8391c8e954294367aa12965a22330cb0eed4[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 15:44:27 2021 -0500
+
+    anim bp fish 2 and 3
+
+[33mcommit 37059895890e799d313a41f33a4a702811cea9eb[m
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 15:43:27 2021 -0500
+
+    Merge
+
+[33mcommit 8ea677323c75cb2dd14012a2d26eb2c0ab33cb26[m
+Merge: ac357a1 1ef3633
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 15:40:40 2021 -0500
+
+    Merge branch 'main' of github.com:JeyzerMC/cgj-17 into main
+
+[33mcommit ac357a135c7a1f501e5a35161802902226444760[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 15:40:34 2021 -0500
+
+    Refactor character and controller system
+
+[33mcommit 064ae0fadda7ca9afecbe1058a409851a4f75dc9[m
+Merge: 717c263 1ef3633
+Author: PamphileKari <PamphileKari@gmail.com>
+Date:   Sat Jan 16 15:27:17 2021 -0500
+
+    Merge branch 'main' of https://github.com/JeyzerMC/cgj-17 into main
+
+[33mcommit 717c2635ecbf7555a53b5c065d217602c81ce9a1[m
+Author: PamphileKari <PamphileKari@gmail.com>
+Date:   Sat Jan 16 15:27:13 2021 -0500
+
+    PamphileStuff Folder
+
+[33mcommit 1ef3633681fd9fab36adf8905220a93a85b28610[m
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 15:20:02 2021 -0500
+
+    ER : Possession kinda works
+
+[33mcommit 1746d5aafa3200e67d19ef818a9d9e6a4c45dc29[m
+Merge: 60aa0e9 2c7ff90
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 14:20:56 2021 -0500
+
+    Merge branch 'change_principal_character' into main
+
+[33mcommit 2c7ff903c335ee06b0097bd598d7b30718382b3b[m[33m ([m[1;31morigin/change_principal_character[m[33m)[m
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 14:18:52 2021 -0500
+
+    ER : Starting possessing characters
+
+[33mcommit 60aa0e99e6bfe41ddde7481dba30e6725489d88d[m
+Merge: b112982 db25b8a
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 14:11:59 2021 -0500
+
+    Merge branch 'main' of github.com:JeyzerMC/cgj-17 into main
+
+[33mcommit b112982b47551a0448e1a0d1bd0ddc9467301c52[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 14:11:57 2021 -0500
+
+    Main character movement and orientation
+
+[33mcommit db25b8af8d1fd029e145d22d43058fa03d1dc0a7[m
+Merge: b90bb8d 47d358f
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 12:30:10 2021 -0500
+
+    Merge branch 'spawn_fishes' into main
+
+[33mcommit 47d358fd95934778ac9d5ad46c75402c7fc9662d[m[33m ([m[1;31morigin/spawn_fishes[m[33m)[m
+Merge: 8df4609 b90bb8d
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 12:29:38 2021 -0500
+
+    Merge branch 'main' into spawn_fishes
+
+[33mcommit 8df4609b50b00ffb14a9622d17a5041863387d37[m
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 12:29:04 2021 -0500
+
+    ER : Created 4 different zone densities
+
+[33mcommit b90bb8d20a3687cb4fe67ec8d7fb42aa6101c90e[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 12:00:41 2021 -0500
+
+    Ocean depth mat
+
+[33mcommit 8b7edf59351430caa3f9a63a573f46ae16c7b9ae[m
+Merge: c6d771a 63afdcd
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 11:23:34 2021 -0500
+
+    Merge branch 'main' into spawn_fishes
+
+[33mcommit c6d771aefa9315c3b6e0e1aca6e9f0c9de45c617[m
+Author: Emmanuelle Roberge <emmanuelle.roberge@polymtl.ca>
+Date:   Sat Jan 16 11:22:57 2021 -0500
+
+    ER : Test scene to spawn fishes at random location in zone
+
+[33mcommit 63afdcd589069f3680a25b23e9e9e8e7ca041a31[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 11:07:14 2021 -0500
+
+    Some low poly underwater corals
+
+[33mcommit 028531558c1c979f537542eb973ada1efe718e6b[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 10:38:18 2021 -0500
+
+    Add fish models
+
+[33mcommit d72d4d0ac5c7222c0c95f7212c13c6c870b01b60[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 09:41:47 2021 -0500
+
+    Add 4.26 project
+
+[33mcommit c2dce7528cc6263dd81d30ca444db6f37bd7471c[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 09:37:51 2021 -0500
+
+    remove 4.25 project
+
+[33mcommit f982ffccd3ada3ed0585c23541d4f39f85e780fd[m
+Author: Mehdi <gmcjeyzer@gmail.com>
+Date:   Sat Jan 16 00:11:19 2021 -0500
+
+    add base side scroller
+
+[33mcommit 143e152c1e9ddbbf3779b27afaef850de60d32e0[m
+Author: Mehdi Chaid <JeyzerMC@users.noreply.github.com>
+Date:   Fri Jan 15 12:11:11 2021 -0500
+
+    Initial commit
